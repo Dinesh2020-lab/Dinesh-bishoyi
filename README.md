@@ -57,13 +57,13 @@ Actively preparing for Software Engineering internship roles.
 </ul>
 <a href="https://github.com/Dinesh2020-lab/mini-code-editor">View Repository</a>
 
-<h3>Diary Style Portfolio</h3>
+<h3>Scholars Hub</h3>
 <ul>
-<li>Animated transitions</li>
-<li>Responsive design</li>
-<li>Reusable UI components</li>
+<li>Real-time Chat App</li>
+<li>Responsive Messaging Interface</li>
+<li>Dynamic React Chat</li>
 </ul>
-<a href="https://github.com/Dinesh2020-lab/MYSELF">View Repository</a>
+<a href="chatroom-react-6e3z.vercel.app">View Repository</a>
 
 <hr/>
 
@@ -91,6 +91,7 @@ DSA • Algorithm Design • OOP • OS • DBMS • Computer Networks • Crypt
 <h2>🏆 Certifications</h2>
 
 <ul>
+  <li> JEE Advanced qualified candidate</li>
 <li>Code Clash — IIT Jodhpur</li>
 <li>Graph Programming Camp — Advanced Graph Problems</li>
 <li>AWS Solutions Architecture Simulation</li>
