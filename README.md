@@ -2,6 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=DINESH%20BISHOYI&fontSize=60&fontAlignY=35&desc=NIT-A%20CSE%20'27%20•%20Software%20Engineering%20Track&descAlignY=60&animation=fadeIn"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+
+<h1 align="center">Hi 👋, I'm Dinesh Bishoyi</h1>
+<h3 align="center">NIT-A CSE '27 | Aspiring Software Engineer</h3>
+
+<p align="center">
+  <a href="mailto:dineshbishoyi20@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/dinesh-bishoyi-32677a31a">LinkedIn</a> •
+  <a href="https://github.com/Dinesh2020-lab">GitHub</a>
+</p>
 
 
 
