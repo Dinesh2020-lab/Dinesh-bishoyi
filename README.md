@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=DINESH%20BISHOYI&fontSize=55&fontAlignY=40&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=DINESH%20BISHOYI&fontSize=60&fontAlignY=35&desc=NIT-A%20CSE%20'27%20•%20Software%20Engineering%20Track&descAlignY=60&animation=fadeIn"/>
 </p>
+
 
 
 <h1 align="center">Dinesh Bishoyi</h1>
